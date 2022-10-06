@@ -1,0 +1,15 @@
+#Home {
+    display: flex;
+    text-align: center;
+    background-position-x: center;
+}
+.t{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+p{
+    color: aqua;
+}
+
